@@ -38,3 +38,4 @@ client.py is a python script running client for a simple email-like service. It 
 This client can be used to send and receive messages from a server that implements a similar email-like service.
 
 NOTE: PLEASE MAKE SURE THAT THE MACHINES RUNNING THE SERVER AND THE CLIENT CODE BOTH ARE CONNECTED TO THE SAME NETWORK.
+P.S: Please generate your own certificate and key using openssl.
